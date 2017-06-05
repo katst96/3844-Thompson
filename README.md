@@ -1,18 +1,24 @@
-## Welcome to GitHub Pages
+##  What is a VT Shaped Student
 
-You can use the [editor on GitHub](https://github.com/katst96/3844-Thompson/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A reflection of the VT Shaped Student from a VT Student 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Introduction
+
+I am writing this website as a VT student with a rather atypical experience at VT. After fall semester of 2016, I was granted academic relief and was not enrolled as a student during the spring 2017 semester. I still chose to live in Blacksburg during this time and maintained a part-time job.
+
+My experience with digital writing is next to none. I did one small assignment using very basic html code back in spring 2016 for another english class, but I had a classmate do all the dirty work for me. I simply refuse to learn any computer programming skills through the english department. I understand having such skills could potentially make me a more attractive candidate for a job position in the future, but the english department's pathetic attempt to have their students aquire such skills through this class is commical.  
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# My Thoughts on the VT Shaped Student 
+
+I When I first 
+## Interests
+
+
 ### Header 3
 
 - Bulleted
