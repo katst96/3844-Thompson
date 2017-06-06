@@ -10,7 +10,6 @@ I am writing this website as a VT student with a rather atypical experience at V
 
 My experience with digital writing is next to none. I did one small assignment using very basic html code back in spring 2016 for another english class, but I had a classmate do all the dirty work for me. I simply refuse to learn any computer programming skills through the english department. I understand having such skills could potentially make me a more attractive candidate for a job position in the future, but the english department's pathetic attempt to have their students aquire such skills through this class is commical.  
 
-```markdown
 
 # My Thoughts on the VT Shaped Student 
 
@@ -45,4 +44,3 @@ I have no plans or goals regarding the VT Shaped Student. My own personal plans 
 
 My recommendation to incoming freshmen would be to get involved in as many clubs and organizations possible. Most would encourage freshmen to focus on their studies but your first year at VT is vital for getting involved.
 
-```markdown
