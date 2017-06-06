@@ -43,5 +43,6 @@ I have no plans or goals regarding the VT Shaped Student. My own personal plans 
 
 ## Recommendations
 
-My recommendation to incoming freshmen would be to get involved in as many clubs and organizations possible. Most would encourage freshmen to focus on their studies but your first year at VT is vital for getting involved. 
+My recommendation to incoming freshmen would be to get involved in as many clubs and organizations possible. Most would encourage freshmen to focus on their studies but your first year at VT is vital for getting involved.
 
+```markdown
